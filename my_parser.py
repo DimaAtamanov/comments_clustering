@@ -6,7 +6,7 @@ import os
 import googleapiclient.discovery
 import csv
 
-DEVELOPER_KEY = "AIzaSyBwI_6dtZi-H9LjrMusLN3xSAxDCY-hBmw"
+DEVELOPER_KEY = "******"
 
 
 # Функция для скачивания корневых комментариев
